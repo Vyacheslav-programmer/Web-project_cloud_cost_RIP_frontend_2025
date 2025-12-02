@@ -10,8 +10,8 @@
 
 - **SPA** - Лабораторная 5: React SPA с проксированием
 - **Tauri** - Лабораторная 6: Tauri десктопное приложение
-- **Pages** - Лабораторная 6: Frontend для GitHub Pages
-- **gh-edux** - Лабораторная 6: Frontend с Redux для PWA
+- **gh-pages** - Лабораторная 6: Frontend для GitHub Pages
+- **Redux** - Лабораторная 6: Frontend с Redux для PWA
 - **Auth** - Лабораторная 7: Авторизация, Redux Toolkit, работа с заявками
 
 ## Бэкенд репозиторий:
@@ -19,4 +19,5 @@ https://github.com/Vyacheslav-programmer/RIP-Backend_2025
 
 ## GitHub Pages:
 https://vyacheslav-programmer.github.io/RIP-Frontend_2025/
+
 
