@@ -15,9 +15,10 @@
 - **Auth** - Лабораторная 7: Авторизация, Redux Toolkit, работа с заявками
 
 ## Бэкенд репозиторий:
-https://github.com/Vyacheslav-programmer/RIP-Backend_2025
+https://github.com/Vyacheslav-programmer/Web-project_cloud_cost_RIP_backend_2025
 
 ## GitHub Pages:
 https://vyacheslav-programmer.github.io/RIP-Frontend_2025/
+
 
 
