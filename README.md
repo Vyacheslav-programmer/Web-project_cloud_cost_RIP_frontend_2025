@@ -13,12 +13,18 @@
 - **gh-pages** - Лабораторная 6: Frontend для GitHub Pages
 - **Redux** - Лабораторная 6: Frontend с Redux для PWA
 - **Auth** - Лабораторная 7: Авторизация, Redux Toolkit, работа с заявками
+- **Moderator** - Лабораторная 8: Интерфейс модератора
 
 ## Бэкенд репозиторий:
-https://github.com/Vyacheslav-programmer/Web-project_cloud_cost_RIP_backend_2025
+[Web-project_cloud_cost_RIP_backend_2025](https://github.com/Vyacheslav-programmer/Web-project_cloud_cost_RIP_backend_2025)
 
 ## GitHub Pages:
-https://vyacheslav-programmer.github.io/RIP-Frontend_2025/
+https://vyacheslav-programmer.github.io/web-project_cloud_cost_RIP_frontend_2025/
 
-
-
+## Технологии:
+- React + TypeScript
+- Redux Toolkit
+- React Bootstrap
+- Vite
+- Tauri
+- PWA
