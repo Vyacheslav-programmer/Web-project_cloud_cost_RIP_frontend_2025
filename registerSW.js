@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Web-project_cloud_cost_RIP_frontend_2025/sw.js', { scope: '/Web-project_cloud_cost_RIP_frontend_2025/' })})}
